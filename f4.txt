@@ -1,0 +1,7 @@
+git log
+git branch
+git branch 1
+git branch 1
+git branch
+git checkout branch1
+notepad f4.txt
