@@ -1,0 +1,2 @@
+git commit -m"pj1 version"
+notepad f3.txt
