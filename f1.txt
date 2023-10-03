@@ -1,0 +1,9 @@
+devops lab
+cd..
+cd ,,
+cd users
+cd devops
+cd pj1
+git init
+git config --global user.name,email "" ""
+notepad f1.txt
